@@ -3,7 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/common/common_utils" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/common/service_utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/common_util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/service_util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service/service_user" vcs="Git" />
   </component>
 </project>
